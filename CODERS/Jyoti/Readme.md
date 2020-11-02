@@ -5,7 +5,7 @@
 |                     |                                                                                                      |                   |
 |---------------------|------------------------------------------------------------------------------------------------------|-------------------|
 | Topic:              | Problem:                                                                                             | Done [yes or no]  |
-|                     |                                                                                                      | yes              |
+|                     |                                                                                                      | yes               |
 | Array               | Reverse the array                                                                                    | yes               |
 | Array               | Find the maximum and minimum element in an array                                                     | <->               |
 | Array               | Find the "Kth" max and min element of an array                                                       | <->               |
